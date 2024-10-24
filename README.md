@@ -1,8 +1,8 @@
 - 🍻 Hi, I’m @L3SLAYDABAHIA
 - 🦇 I’m interested in mahito
 - 💻 I’m currently learning EUGH EUGH EUGH EUGH
-- 🎧I’m looking to collaborate on ...
-- 💀 How to reach me ...
+- 🎧I’m looking to collaborate on nada
+- 💀 How to reach me: seja o felipitus (te amo felipitus)
 - 🧛Pronouns: she/her
 - ⚡ Fun fact: AHAHAHAHAHHAHA EU SLA QUE BOSTA TEM DE LEGAL EM MIM????!?!?!?1 eu gosto do mahito
   
