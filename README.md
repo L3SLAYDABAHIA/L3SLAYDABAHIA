@@ -4,7 +4,7 @@
 - 🎧I’m looking to collaborate on nada
 - 💀 How to reach me: seja o felipitus (te amo felipitus)
 - 🧛Pronouns: she/her
-- ⚡ Fun fact: AHAHAHAHAHHAHA EU SLA QUE BOSTA TEM DE LEGAL EM MIM????!?!?!?1 eu gosto do mahito
+- 🕸️ Fun fact: AHAHAHAHAHHAHA EU SLA QUE BOSTA TEM DE LEGAL EM MIM????!?!?!?1 eu gosto do mahito
 
 
 <!---
