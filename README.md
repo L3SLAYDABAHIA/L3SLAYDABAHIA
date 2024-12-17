@@ -36,6 +36,7 @@
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
   <a href="https://discord.js.org/" target="_blank">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js">
   </a>
 </p>
@@ -51,3 +52,9 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/58/ef/84/58ef8425f24e05c06c122f123efbe122.gif" alt="GitHub GIF" width="400"/>
 </p>
+<!-- Banner de Boas-Vindas -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=;BYE BYEE!!" alt="Typing SVG" />
+</p>
+
+---
