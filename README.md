@@ -1,6 +1,5 @@
 ![Descrição da Imagem](https://i.pinimg.com/736x/f0/a8/c3/f0a8c32293f93c2bd2006c35062315ec.jpg)
 
-*#Hello world, im L3SLIE!*
 ![License](https://img.shields.io/badge/License-MIT-white?style=flat-square)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-white?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
