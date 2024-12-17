@@ -47,3 +47,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=L3SLAYDABAHIA&theme=radical" alt="Contribuições" />
 </p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/58/ef/84/58ef8425f24e05c06c122f123efbe122.gif" alt="GitHub GIF" width="400"/>
+</p>
