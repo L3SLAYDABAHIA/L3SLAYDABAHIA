@@ -7,9 +7,7 @@
   <img src="https://i.pinimg.com/736x/2c/6c/c7/2c6cc7dc336c75c50ef194569b82e15c.jpg" alt="-DEVL3SLIE" width="200" height="200" style="border-radius: 50%; object-fit: cover;"> 
 </p> 
 
-
 ---
-
 ### lil tools ive used for the layout/status if you want
 - **HTML + Markdown** for layout.
 - **Shields.io** for status and visual metrics.
