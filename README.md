@@ -56,4 +56,6 @@
 
 ---
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/isisprudentemartins/profilecard/?igsh=ZXo5aGxnMzk3cWY3/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/isisprudentemartins/profilecard/?igsh=ZXo5aGxnMzk3cWY3/) ## Conecte-se conosco no Pinterest
+
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/3N2Gnw4eM/)
