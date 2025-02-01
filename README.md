@@ -7,6 +7,7 @@
   <img src="https://i.pinimg.com/736x/2c/6c/c7/2c6cc7dc336c75c50ef194569b82e15c.jpg" alt="-DEVL3SLIE" width="200" height="200" style="border-radius: 50%; object-fit: cover;"> 
 </p> 
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/isisprudentemartins/profilecard/?igsh=ZXo5aGxnMzk3cWY3/)
 ---
 <h1 align="center">⸝⸝Helllo world! I am DEVL3SLIE.ᐟ.ᐟ</h1>
 
@@ -44,7 +45,6 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/58/ef/84/58ef8425f24e05c06c122f123efbe122.gif" alt="GitHub GIF" width="400"/>
 </p>
 <!-- Banner de Boas-Vindas -->
 <p align="center">
@@ -52,6 +52,3 @@
 </p>
 
 ---
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/isisprudentemartins/profilecard/?igsh=ZXo5aGxnMzk3cWY3/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/3N2Gnw4eM/)
