@@ -1,6 +1,6 @@
 <h1 align="center">⸝⸝Helllo world! I am DEVL3SLIE.ᐟ.ᐟ</h1>
 ## 🚀 About me:
-Sou um(a) desenvolvedor(a) apaixonado(a) por tecnology. that' all
+i'm a developer that loves tecnology. that' all
 
 - 🌱I'm currently learning: {JavaScript and phyton}
 - 🤝Always open to collaboration on interesting projects!
