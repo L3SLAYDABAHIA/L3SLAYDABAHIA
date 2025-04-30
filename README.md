@@ -1,3 +1,10 @@
+
+![Descrição da Imagem](https://i.pinimg.com/736x/f0/a8/c3/f0a8c32293f93c2bd2006c35062315ec.jpg)
+<p align="center">
+  <p align="center">
+  <img src="https://i.pinimg.com/736x/2c/6c/c7/2c6cc7dc336c75c50ef194569b82e15c.jpg" alt="-DEVL3SLIE" width="200" height="200" style="border-radius: 50%; object-fit: cover;"> 
+</p> 
+</p>
 <h1 align="center">⸝⸝Helllo world! I am DEVL3SLIE.ᐟ.ᐟ</h1>
 ## 🚀 About me:
 i'm a developer that loves tecnology. that' all
