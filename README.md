@@ -1,51 +1,40 @@
-![Descrição da Imagem](https://i.pinimg.com/736x/f0/a8/c3/f0a8c32293f93c2bd2006c35062315ec.jpg)
+<h1 align="center">⸝⸝Helllo world! I am DEVL3SLIE.ᐟ.ᐟ</h1>
+## 🚀 About me:
+Sou um(a) desenvolvedor(a) apaixonado(a) por tecnology. that' all
+
+- 🌱I'm currently learning: {JavaScript and phyton}
+- 🤝Always open to collaboration on interesting projects!
+- 📫 social network!
+ [ ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/isisprudentemartins/profilecard/?igsh=ZXo5aGxnMzk3cWY3/)
+
 
 ![License](https://img.shields.io/badge/License-MIT-white?style=flat-square)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-white?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-<p align="center">
-  <img src="https://i.pinimg.com/736x/2c/6c/c7/2c6cc7dc336c75c50ef194569b82e15c.jpg" alt="-DEVL3SLIE" width="200" height="200" style="border-radius: 50%; object-fit: cover;"> 
-</p> 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/isisprudentemartins/profilecard/?igsh=ZXo5aGxnMzk3cWY3/)
----
-<h1 align="center">⸝⸝Helllo world! I am DEVL3SLIE.ᐟ.ᐟ</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=435&height=45&lines=-ˋˏ✄┈┈┈┈;loves+tecnology+%E2%9C%8F%EF%B8%8F" alt="Typing SVG" />
-</p>
 
 ---
 
-## ⌗ About me:
-- ⭑.ᐟ: im working with **[Typescript/discord.js,etc nowdays]**.
-  - ⭑.ᐟ: working as a **[dev from games]**.
-- ⭑.ᐟ: im a 17 year old lil dev
+## 🛠️ Tecnology and tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ <img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js">
+</p>
+
+
 ---
 
-## ⌗ Tecnology and tools! :
-<p align="center">
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<p align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank">
-  <a href="https://discord.js.org/" target="_blank">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js">
-  </a>
-</p>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L3SLAYDABAHIA&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</p>
+## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L3SLAYDABAHIA&theme=radical" alt="Contribuições" />
-</p>
+![Seu nome GitHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3SLAYDABAHIA&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3SLAYDABAHIA&layout=compact&theme=radical)
 
-<p align="center">
-</p>
-<!-- Banner de Boas-Vindas -->
+---
 
+## 🖼️ GitHub Streak
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=L3SLAYDABAHIA&theme=dark)](https://git.io/streak-stats)
+
+---
+**Thanks for visiting!** ✨
