@@ -1,17 +1,16 @@
 
-![Descrição da Imagem](https://i.pinimg.com/736x/f0/a8/c3/f0a8c32293f93c2bd2006c35062315ec.jpg)
+![Descrição da Imagem](https://i.pinimg.com/1200x/f6/d7/29/f6d729ee62021b45d97e38dbc172db57.jpg)
 <p align="center">
-  <p align="center">
-  <img src="https://i.pinimg.com/736x/2c/6c/c7/2c6cc7dc336c75c50ef194569b82e15c.jpg" alt="-DEVL3SLIE" width="200" height="200" style="border-radius: 50%; object-fit: cover;"> 
-</p> 
+  <img src="https://i.pinimg.com/1200x/c6/47/ff/c647ffb9f2180417906caa021fb24743.jpg" width="200"/>
+  <img src="https://i.pinimg.com/1200x/d5/72/46/d5724677e27a7e3099838c435cfec30b.jpg" width="200"/>
+</p>
 </p>
 <h1 align="center">⸝⸝Helllo world! I am DEVL3SLIE.ᐟ.ᐟ</h1>
 ## 🚀 About me:
-i'm a developer that loves tecnology. that' all
+i'm a developer that loves tecnology. that's all
 
 - 🌱I'm currently learning: {JavaScript and phyton}
 - 🤝Always open to collaboration on interesting projects!
-- 📫 social network!
  [ ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/isisprudentemartins/profilecard/?igsh=ZXo5aGxnMzk3cWY3/)
 
 
@@ -45,3 +44,8 @@ i'm a developer that loves tecnology. that' all
 
 ---
 **Thanks for visiting!** ✨
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=L3SLAYDABAHIA&show_icons=true&theme=transparent" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L3SLAYDABAHIA&theme=transparent" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3SLAYDABAHIA&layout=compact&theme=transparent" alt="Linguagens"/>
+</p>
